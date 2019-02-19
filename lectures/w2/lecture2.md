@@ -20,5 +20,8 @@ Work product:
 * Deliver GUI
 
 ### 3-8: What is the difference between a cross-functional team and a subsystem team?
+Subsystem team, only members which understand each subsytem, while cross-functional being able to switch
 
 ### 3-11: As member of a user interface team developing a form you should find out which fields are required and which are optional. How do you find out?
+
+Talk to Business Anaalyst or Business, who makes the requirements.
